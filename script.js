@@ -1,3 +1,6 @@
+//Animation to make Glass Dissapear//
+//Click function //
+
 $(document).ready(function(){
   $("button").click(function(){
     $("div").animate({
